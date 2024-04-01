@@ -32,3 +32,11 @@
 .blue {
     background-color: blue;
 }
+
+.flash {
+    background-color: white;
+}
+
+.userFlash {
+    background-color: rgb(31, 69, 94);
+}
